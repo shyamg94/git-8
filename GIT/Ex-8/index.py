@@ -1,1 +1,4 @@
-Print("First")
+
+print("First")
+
+print ("Second")
